@@ -7,3 +7,25 @@
   width: 150px;
   height: 150px;
 }
+.kotak {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.balik {
+  padding: 100px 0;
+  background-color: gray;
+  display: flex;
+}
+.kotak1 {
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.kotak2 {
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
